@@ -55,6 +55,10 @@ e)	Switch ‘OFF’ the supply after taking thereadings.
 
 <img width="1250" height="295" alt="image" src="https://github.com/user-attachments/assets/6e24fdd6-2038-4e3a-b65b-9124dcc45065" />
 
+**MARK SPLIT UP:**
+
+<img width="1439" height="916" alt="image" src="https://github.com/user-attachments/assets/5ad86c25-1238-4b00-b10e-fc8822961164" />
+
 
 **RESULT:**
 
